@@ -68,7 +68,8 @@ You can also override verl/Hydra arguments at the end of the command.
   author    = {Guirong Chen and Shuqi Ye and Wenkai Yang and Shiqi Shen and Guangyao Shen and Yankai Lin},
   booktitle = {Proceedings of the 64th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)},
   year      = {2026},
-  publisher = {Association for Computational Linguistics}
+  publisher = {Association for Computational Linguistics},
+  url       = {https://aclanthology.org/2026.acl-long.1321/}
 }
 ```
 
