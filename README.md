@@ -63,11 +63,12 @@ You can also override verl/Hydra arguments at the end of the command.
 ## Citation
 
 ```bibtex
-@misc{anonymous2026cure,
-  title        = {CURE: Critique-Driven Unified Reinforcement Learning for Test-Time Self-Improvement},
-  author       = {Anonymous Authors},
-  year         = {2026},
-  note         = {Under double-anonymous review}
+@inproceedings{chen-etal-2026-cure,
+  title     = {{CURE}: Critique-Driven Unified Reinforcement Learning for Test-Time Self-Improvement},
+  author    = {Guirong Chen and Shuqi Ye and Wenkai Yang and Shiqi Shen and Guangyao Shen and Yankai Lin},
+  booktitle = {Proceedings of the 64th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)},
+  year      = {2026},
+  publisher = {Association for Computational Linguistics}
 }
 ```
 
@@ -78,3 +79,4 @@ This project is built upon [verl](https://github.com/volcengine/verl). We sincer
 ## License
 
 Apache-2.0. See `LICENSE`; upstream verl attribution is included in `NOTICE`.
+
